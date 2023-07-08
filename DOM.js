@@ -134,3 +134,6 @@ for (let node of document.body.childNodes) {
 
 /* Array from methodi orqali biz child nodeni arrayga o'tqazib olamiz */
 alert( Array.from(document.body.childNodes).filter )
+
+
+// Farzandlar va Onalar
